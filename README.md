@@ -2,7 +2,7 @@
 LeetCodePrep
 
 
-[815] Bus Routes                                                   Hard   (29.82 %)
+      [815] Bus Routes                                                   Hard   (29.82 %)
       [814] Binary Tree Pruning                                          Medium (74.56 %)
       [813] Largest Sum of Averages                                      Medium (36.54 %)
       [812] Largest Triangle Area                                        Easy   (51.54 %)
